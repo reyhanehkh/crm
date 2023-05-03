@@ -1,0 +1,49 @@
+{
+  "Apply": "Apply",
+  "Reset": "Reset1",
+  "Filter": {
+    "Results": "Filter results"
+  },
+  "Alert": {
+    "Close": "Close alert"
+  },
+  "Login": {
+    "ّForgotPassword": "ّForgot Password?",
+    "Signup": {
+      "Desc": "Not a member?",
+      "Link": "Signup now"
+    },
+    "Username": {
+      "Person": "Cell Number",
+      "Company": "National Id"
+    },
+    "Password": "Password",
+    "ChangeButton": {
+      "Person": "Companies",
+      "Company": "Persons"
+    },
+    "Welcome": {
+      "Person": "Welcome back",
+      "Company": "Welcome back"
+    },
+    "Submit": "Sign In",
+    "Error": {
+      "WrongUsernameOrPassword": "Wrong username or password."
+    }
+  },
+  "ForgotPassword": {
+    "ToLogin": "Back to Login",
+    "Title": "Recover Password",
+    "Desc": "Enter your cell number and we'll send you the code",
+    "Continue": "Continue"
+  },
+  "RestPassordPassword": {
+    "Resend": "ُResend Code",
+    "Title": "Recover Password",
+    "Desc": "Enter your cell number and we'll send you the code",
+    "Continue": "Continue"
+  },
+  "Footer": {
+    "CompanyTitle": "مهرگان دانش پژوه (Sepanta)"
+  }
+}
